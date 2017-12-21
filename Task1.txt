@@ -1,0 +1,5 @@
+Task 1:
+One body is moving with 1 m/s and 17 m/s² and other is with 19m/s and 3 m/s² and are apart by 40 m.
+Use unity to find out the time when they collide. (Actual answer using kinematic equations is 4s.) Try to be as accurate as possible. Upload the solution on github, along with the build file.
+
+Upload your project by midnight (22-12-2017 00:01 am) to your repo and send a pull request.
